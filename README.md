@@ -1,5 +1,4 @@
 ## CC6522 - MODELAGEM DE SOFTWARE ORIENTADO A OBJETO - CENTRO UNIVERSITÁRIO FEI
-### Projeto 02 da disciplina de Modelagem de Software Orientado a Objeto do Centro universitário FEI
 
 <p align="center">
   <img alt="Software" src="https://img.shields.io/badge/Software-orange?style=for-the-badge&logo=software&logoColor=white"/>
@@ -10,6 +9,8 @@
 
 <!-- INTRODUCAO -->
 ## Introdução 💻
+
+### Projeto 02
 
 Sua empresa foi contratada para modelar usando a UML um novo sistema para o controle de elevadores em uma rede de Hotéis.
 
